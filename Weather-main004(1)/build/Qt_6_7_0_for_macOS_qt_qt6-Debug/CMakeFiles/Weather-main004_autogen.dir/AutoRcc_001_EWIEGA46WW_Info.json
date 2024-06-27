@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/build/Qt_6_7_0_for_macOS_qt_qt6-Debug/Weather-main004_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/build/Qt_6_7_0_for_macOS_qt_qt6-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/build/Qt_6_7_0_for_macOS_qt_qt6-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004",
+	"CMAKE_SOURCE_DIR" : "/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004",
+	"INCLUDE_DIR" : "/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/build/Qt_6_7_0_for_macOS_qt_qt6-Debug/Weather-main004_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/images/location003.png",
+		"/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/images/location002.png",
+		"/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/images/location001.png",
+		"/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/images/location000.png",
+		"/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/weather.json.txt",
+		"/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/images/WeiMingLake.png",
+		"/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/images/\u641c\u7d22\u6846000.png",
+		"/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/images/Refresh-000.png",
+		"/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/images/\u6309\u94ae1-001.png",
+		"/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/images/Refresh-001.png",
+		"/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/images/\u6309\u94ae2-000.png",
+		"/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/images/\u6309\u94ae1-000.png"
+	],
+	"LOCK_FILE" : "/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/build/Qt_6_7_0_for_macOS_qt_qt6-Debug/CMakeFiles/Weather-main004_autogen.dir/AutoRcc_001_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "001" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_001.cpp",
+	"RCC_EXECUTABLE" : "/Users/matthew-xh/Qt/6.7.0/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/build/Qt_6_7_0_for_macOS_qt_qt6-Debug/CMakeFiles/Weather-main004_autogen.dir/AutoRcc_001_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/matthew-xh/Study/CS/QT_WeatherPredictor/Weather-main004/001.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "D:/Qtprojeccts/Weather-main004/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/Weather-main004_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Qtprojeccts/Weather-main004/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Qtprojeccts/Weather-main004/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Qtprojeccts/Weather-main004",
+	"CMAKE_SOURCE_DIR" : "D:/Qtprojeccts/Weather-main004",
+	"INCLUDE_DIR" : "D:/Qtprojeccts/Weather-main004/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/Weather-main004_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Qtprojeccts/Weather-main004/images/location003.png",
+		"D:/Qtprojeccts/Weather-main004/images/location002.png",
+		"D:/Qtprojeccts/Weather-main004/images/location001.png",
+		"D:/Qtprojeccts/Weather-main004/images/location000.png",
+		"D:/Qtprojeccts/Weather-main004/weather.json.txt",
+		"D:/Qtprojeccts/Weather-main004/images/WeiMingLake.png",
+		"D:/Qtprojeccts/Weather-main004/images/\u641c\u7d22\u6846000.png",
+		"D:/Qtprojeccts/Weather-main004/images/Refresh-000.png",
+		"D:/Qtprojeccts/Weather-main004/images/\u6309\u94ae1-001.png",
+		"D:/Qtprojeccts/Weather-main004/images/Refresh-001.png",
+		"D:/Qtprojeccts/Weather-main004/images/\u6309\u94ae2-000.png",
+		"D:/Qtprojeccts/Weather-main004/images/\u6309\u94ae1-000.png"
+	],
+	"LOCK_FILE" : "D:/Qtprojeccts/Weather-main004/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/Weather-main004_autogen.dir/AutoRcc_001_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "001" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_001.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.7.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Qtprojeccts/Weather-main004/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/Weather-main004_autogen.dir/AutoRcc_001_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Qtprojeccts/Weather-main004/001.qrc",
+	"VERBOSITY" : 0
+}
