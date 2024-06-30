@@ -70,12 +70,12 @@ void FollowMouseWidget::keyPressEvent(QKeyEvent *event)
     {
         ++spaceCount; // 每次按下空格键增加计数
 
-        if (spaceCount == 1)
-        {
-            // 启动定时器
-            timer.start();
-        }
-        else if (spaceCount == 2)
+        // if (spaceCount == 1)
+        // {
+        //     // 启动定时器
+        //     timer.start();
+        // }
+        if (spaceCount == 2)
         {
             // 如果第二次按下空格键，直接隐藏自己
             hide();
@@ -137,13 +137,15 @@ void FollowMouseWidget::updateText() {
         lines << "夜晚风向:" + weatherForSevenDay[i].windDirNight;
         lines << "-------------------";
     }
-
+    ui->textBrowser->clear();
     foreach (const QString &line, lines) { ui->textBrowser->append(line); }
 }
 
 void FollowMouseWidget::updateText1() {
     QStringList lines;
+    lines.clear();
     lines<<"体感温度: " + weatherRealTimeObj.feelsLike << "UV: " + weatherForSevenDay[0].uvIndex << "风力等级: " + weatherRealTimeObj.windScale;
     lines<<"风向: " + weatherRealTimeObj.windDir << "大气压: " + weatherRealTimeObj.pressure;
+    ui->textBrowser->clear();
     foreach (const QString &line, lines) { ui->textBrowser->append(line); }
 }

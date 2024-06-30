@@ -17,9 +17,9 @@
    <property name="geometry">
     <rect>
      <x>0</x>
-     <y>0</y>
-     <width>401</width>
-     <height>301</height>
+     <y>20</y>
+     <width>301</width>
+     <height>201</height>
     </rect>
    </property>
    <property name="html">

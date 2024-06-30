@@ -69,6 +69,7 @@ search_box::search_box(QWidget *parent) : QWidget(parent)
     connect(search_edit1, &QLineEdit::returnPressed, this, &search_box::on_search_btn_clicked);
     connect(search_btn, &QPushButton::clicked, this, &search_box::on_search_btn_clicked);
     connect(listview, &QListView::clicked, this, &search_box::on_listview_clicked);
+    this->setWindowIcon(QIcon(":new/images/images/location003.png"));
 }
 
 void search_box::on_search_btn_clicked()
