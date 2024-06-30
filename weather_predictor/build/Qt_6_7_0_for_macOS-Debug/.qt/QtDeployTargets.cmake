@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Weather_Predictor_FILE /Users/matthew-xh/Study/CS/QT_WeatherPredictor/WeatherPredictor/weather_predictor/build/Qt_6_7_0_for_macOS-Debug/Weather_Predictor.app/Contents/MacOS/Weather_Predictor)
+set(__QT_DEPLOY_TARGET_Weather_Predictor_TYPE EXECUTABLE)

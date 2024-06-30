@@ -1,0 +1,27 @@
+# ninja log v6
+3	217	1719752994536629613	Weather_Predictor_autogen/timestamp	c9cdfe1fb46d67a4
+3	217	1719752994536629613	Weather_Predictor_autogen/mocs_compilation.cpp	c9cdfe1fb46d67a4
+3	217	1719752994536629613	/Users/matthew-xh/Study/CS/QT_WeatherPredictor/WeatherPredictor/weather_predictor/build/Qt_6_7_0_for_macOS-Debug/Weather_Predictor_autogen/timestamp	c9cdfe1fb46d67a4
+3	217	1719752994536629613	/Users/matthew-xh/Study/CS/QT_WeatherPredictor/WeatherPredictor/weather_predictor/build/Qt_6_7_0_for_macOS-Debug/Weather_Predictor_autogen/mocs_compilation.cpp	c9cdfe1fb46d67a4
+218	586	1719752994910476672	Weather_Predictor_autogen/EWIEGA46WW/qrc_images.cpp	db26f95fc891c4e4
+218	586	1719752994910476672	/Users/matthew-xh/Study/CS/QT_WeatherPredictor/WeatherPredictor/weather_predictor/build/Qt_6_7_0_for_macOS-Debug/Weather_Predictor_autogen/EWIEGA46WW/qrc_images.cpp	db26f95fc891c4e4
+587	1463	1719752994913113808	CMakeFiles/Weather_Predictor.dir/decompressGzip.cpp.o	8bb899538c2343e0
+587	1613	1719752994913307223	CMakeFiles/Weather_Predictor.dir/weatherrealtime.cpp.o	edc61edd0712e489
+587	1615	1719752994913020392	CMakeFiles/Weather_Predictor.dir/weathereachday.cpp.o	e373de410a41cfd
+587	1623	1719752994913400888	CMakeFiles/Weather_Predictor.dir/images/multiweather.cpp.o	96542f660c352943
+587	1659	1719752994912934102	CMakeFiles/Weather_Predictor.dir/cityinfo.cpp.o	23a27587be089b77
+587	1741	1719752994913509970	CMakeFiles/Weather_Predictor.dir/followmousewidget.cpp.o	6f1ec3b6c5d4e6bd
+586	1862	1719752994912534856	CMakeFiles/Weather_Predictor.dir/Weather_Predictor_autogen/mocs_compilation.cpp.o	80a10db2dd048858
+586	1895	1719752994912741854	CMakeFiles/Weather_Predictor.dir/main.cpp.o	d6456e8802954ce9
+587	1915	1719752994913216849	CMakeFiles/Weather_Predictor.dir/search_box.cpp.o	24da275c6c491c9b
+587	1953	1719752994912842936	CMakeFiles/Weather_Predictor.dir/mywidget.cpp.o	6292367cb26a6f4f
+587	4609	1719752994913615636	CMakeFiles/Weather_Predictor.dir/Weather_Predictor_autogen/EWIEGA46WW/qrc_images.cpp.o	becc0db95d2c4dfb
+4609	4692	1719752998934912052	Weather_Predictor.app/Contents/MacOS/Weather_Predictor	74e9aba5b714487e
+11	50	1719753271730882771	Weather_Predictor_autogen/timestamp	c9cdfe1fb46d67a4
+11	50	1719753271730882771	Weather_Predictor_autogen/mocs_compilation.cpp	c9cdfe1fb46d67a4
+11	50	1719753271730882771	/Users/matthew-xh/Study/CS/QT_WeatherPredictor/WeatherPredictor/weather_predictor/build/Qt_6_7_0_for_macOS-Debug/Weather_Predictor_autogen/timestamp	c9cdfe1fb46d67a4
+11	50	1719753271730882771	/Users/matthew-xh/Study/CS/QT_WeatherPredictor/WeatherPredictor/weather_predictor/build/Qt_6_7_0_for_macOS-Debug/Weather_Predictor_autogen/mocs_compilation.cpp	c9cdfe1fb46d67a4
+51	796	1719753271770524571	CMakeFiles/Weather_Predictor.dir/followmousewidget.cpp.o	6f1ec3b6c5d4e6bd
+50	908	1719753271770206280	CMakeFiles/Weather_Predictor.dir/mywidget.cpp.o	6292367cb26a6f4f
+50	910	1719753271770409654	CMakeFiles/Weather_Predictor.dir/search_box.cpp.o	24da275c6c491c9b
+910	998	1719753272630194101	Weather_Predictor.app/Contents/MacOS/Weather_Predictor	74e9aba5b714487e
