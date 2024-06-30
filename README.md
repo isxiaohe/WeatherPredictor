@@ -1,2 +1,4 @@
-# WeatherPredictor
-pku程设2024 战损高坚果的天气预报
+# WeatherPredictor 
+## pku程设2024 战损高坚果的天气预报
+- 包含源码, 演示和作业报告.
+- 也可以通过`演示.txt`中的链接获取演示视频.
